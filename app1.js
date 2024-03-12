@@ -89,7 +89,7 @@ function changeBackgroundImage(description) {
       body.style.backgroundImage = 'url("img1.jpg")';
       break;
     case 'light rain':
-      body.style.backgroundImage = 'url("img11.jpg")';
+      body.style.backgroundImage = 'url("image11.jpg")';
       break;
     case 'light drizzle':
       body.style.backgroundImage = 'url("img12.jpg")';
